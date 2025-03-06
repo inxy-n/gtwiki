@@ -21,12 +21,11 @@ author: Chen and Ye
 
 navbar-links:
   About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Collaboration: 
-    - Sponsorship: "https://deanattali.com"
-    - Join us: "https://www.linkedin.com/in/deanattali"
+  Project: "Project"
+  Lab: "lab"
+  Human practices: "humanpractices"
+  Team: "team"
+  
 
 ################
 # --- Logo --- #
